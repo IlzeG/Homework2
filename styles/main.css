@@ -130,7 +130,7 @@ header .tools{
 
 .hero .feature{
     background: white;
-    grid-area: feature action;
+    grid-area: feature;
     padding: 15px 10px;
     color: black;
 }
